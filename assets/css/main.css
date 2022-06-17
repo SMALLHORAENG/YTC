@@ -2931,8 +2931,11 @@ input, select, textarea {
 		display: flex;
 		flex-wrap: wrap;
 		margin: -1.25rem 0 0 -1.25rem;
+		object-fit: cover;
 		width: calc(100% + 1.25rem);
+		
 	}
+
 
 		.gallery a {
 			border-bottom: 0;
